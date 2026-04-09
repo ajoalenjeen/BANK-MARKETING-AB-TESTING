@@ -31,7 +31,24 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 
 ---
 
-## 📈 Recommended Strategy: Crisis-Aware Targeting
+## ✅ Recommendations
+
+Based on the analysis, the bank should adopt a **layered targeting strategy**:
+
+### Tier 1 — Immediate, no-risk change
+**Stop calling the worst-performing segment.** Eliminate clients who match: *telephone channel + May + blue-collar/services/entrepreneur job category.* This single rule removes 9% of call volume while losing only 3% of subscribers — a 27:1 cost-benefit ratio with zero operational disruption.
+
+### Tier 2 — Primary strategy: Crisis-Aware targeting
+**Calibrate call volume to the interest rate environment.** Term deposits become more attractive when alternative safe-haven returns are low, so call volume should scale up during low-Euribor periods and scale down during high-Euribor periods — regardless of calendar month.
+
+### Tier 3 — Within Crisis-Aware, prioritize high-value clients
+- **Channel:** Cellular only. Telephone underperforms by 2.8x in every job category.
+- **History:** Prioritize clients with prior contact history (any outcome). Previous campaign success is the strongest single predictor in the dataset.
+- **Frequency:** Cap at 3 contacts per client. Beyond 5 contacts, conversion drops below 6%.
+
+
+
+## 📊 Projected Impact
 
 | Strategy | Calls | Subscribers | Conv Rate | Calls Saved |
 |----------|------:|------------:|----------:|------------:|
