@@ -16,15 +16,19 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 
 ## 🔑 Key Findings
 
+## 🔑 Key Findings
+
 1. **Macroeconomic conditions dominated campaign performance.** Conversion rose from 4.8% (2008) to 52.1% (2010) as the Euribor rate fell from 4.82 to 0.81. The bank made 67% of its calls in its worst-performing year.
 
-2. **Previous campaign success is the strongest year-independent predictor.** Prior subscribers converted at 65.1% vs 8.8% for fresh leads (Cohen's h = 1.27, very large effect).
+2. **Previous campaign success is the strongest predictor (validated by A/B test).** Prior subscribers converted at 65.1% vs 8.8% for fresh leads — a 56 percentage point gap (two-proportion z-test, p < 0.001, **Cohen's h = 1.27, very large effect**).
 
-3. **Cellular outperforms telephone by 2.8x universally** — across every job category, every month, every customer segment.
+3. **Cellular outperforms telephone by 2.8x — universally and significantly.** 14.7% vs 5.2% across all 41,176 contacts (z-test, p < 0.001, h = 0.33). The advantage holds within every job category and every month — no demographic segment performs better on telephone.
 
-4. **Diminishing returns set in after 3 contacts.** Beyond 5 contacts per client, conversion drops below 6%.
+4. **Diminishing returns set in after 3 contacts (chi-square confirmed).** Conversion drops from 13.0% (1 contact) to 5.5% (6+ contacts). Pairwise z-tests show the effect becomes meaningful at the 4-5 contact threshold.
 
-5. **The "month effect" is largely a year confound.** May converted at 3.1% in 2008 but 57.5% in 2010 — calendar timing matters less than the rate environment.
+5. **Day-of-week is statistically significant but practically irrelevant.** A deliberate null finding (Cramér's V = 0.025) — included to demonstrate that with 41k records, p-values alone are insufficient for decision-making.
+
+6. **The "month effect" is largely a year confound.** May converted at 3.1% in 2008 but 57.5% in 2010 — calendar timing matters less than the rate environment. This insight emerged after the initial month analysis was reframed by temporal investigation.
 
 ---
 
