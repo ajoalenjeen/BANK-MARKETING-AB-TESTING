@@ -16,7 +16,6 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 
 ## 🔑 Key Findings
 
-## 🔑 Key Findings
 
 1. **Macroeconomic conditions dominated campaign performance.** Conversion rose from 4.8% (2008) to 52.1% (2010) as the Euribor rate fell from 4.82 to 0.81. The bank made 67% of its calls in its worst-performing year.
 
