@@ -15,7 +15,6 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 ---
 ## 📓 Notebooks
 
-## 📓 Notebooks
 
 | # | Notebook | Description |
 |---|----------|-------------|
