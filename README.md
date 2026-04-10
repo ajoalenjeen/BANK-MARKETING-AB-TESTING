@@ -1,4 +1,4 @@
-# BANK-MARKETING-CAMPAIGN-ANALYSIS
+# BANK-MARKETING-AB-TESTING
 
 ### Improving Conversion Rates Through A/B Testing & Statistical Segmentation
 
