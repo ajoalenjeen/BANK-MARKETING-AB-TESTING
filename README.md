@@ -24,7 +24,7 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 | 03 | [Baseline Performance](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/60ac3dea57fec68549f272c0dc3ee417a7fa633d/Notebooks/03_Baseline%20%26%20Campaign%20Performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
 | 04 | [Customer Segmentation Analysis](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/b4b77b7cd21a1f473e950f48e81ecd8736838a3c/Notebooks/04_Customer%20Segmentation%20Analysis.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
 | 05 | [A/B Testing](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/88f7105abe5209bc5ecd7a91c00e01cc495449db/Notebooks/05_AB%20Testing.ipynb) | Five hypothesis tests with effect-size validation |
-| 06 | [Temporal & Macro Analysis](Notebooks/06_Temporal_Macro_Analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
+| 06 | [Temporal & Macro Analysis](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/ae1711c50af824fd4eee2f7c576957c1c68bf715/Notebooks/06_Temporal%20%26%20Macroeconomic%20Analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
 | 07 | [Strategy Simulation](Notebooks/07_Strategy_Simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
 ---
 
