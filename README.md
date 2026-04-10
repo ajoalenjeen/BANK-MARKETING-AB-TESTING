@@ -15,15 +15,17 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 ---
 ## 📓 Notebooks
 
+## 📓 Notebooks
+
 | # | Notebook | Description |
 |---|----------|-------------|
-| 01 | [EDA](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/89cede0e31023db6e56c41f50f4cf61dc93c03db/Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
-| 02 | [Data Cleaning & Feature Engineering](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/89cede0e31023db6e56c41f50f4cf61dc93c03db/Notebooks/02_Data%20Cleaning%20%26%20Feature%20Engineering.ipynb) | Transformations, feature engineering, export cleaned data |
-| 03 | [Baseline & Segmentation](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/3bbc41f86f247316259f73af25c760327796e2b4/Notebooks/03_Baseline%20%26%20Campaign%20Performance.ipynb) | Campaign baseline, customer segments, ICP, Do-Not-Call profile |
-| 04 | [Baseline & Segmentation](notebooks/03_baseline_and_segmentation.ipynb) | Campaign baseline, customer segments, ICP, Do-Not-Call profile |
-| 05 | [A/B Testing](notebooks/04_ab_testing.ipynb) | Five hypothesis tests with effect-size validation |
-| 06 | [Temporal & Macro Analysis](notebooks/05_temporal_macro_analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
-| 07 | [Strategy Simulation](notebooks/06_strategy_simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
+| 01 | [EDA](notebooks/01_eda.ipynb) | Data inspection, distributions, missing values, correlation |
+| 02 | [Cleaning](notebooks/02_cleaning.ipynb) | Transformations, feature engineering, export cleaned data |
+| 03 | [Baseline Performance](notebooks/03_baseline_performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
+| 04 | [Customer Segmentation](notebooks/04_customer_segmentation.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
+| 05 | [A/B Testing](notebooks/05_ab_testing.ipynb) | Five hypothesis tests with effect-size validation |
+| 06 | [Temporal & Macro Analysis](notebooks/06_temporal_macro_analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
+| 07 | [Strategy Simulation](notebooks/07_strategy_simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
 ---
 
 ## 🔑 Key Findings
