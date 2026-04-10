@@ -71,6 +71,7 @@ Based on the analysis, the bank should adopt a **layered targeting strategy**:
 * The Crisis-Aware strategy would have captured **65% of subscribers using 28% of the call volume** — a **2.28x improvement in conversion efficiency**.
 
 * Strategy simulation showing call volume, subscribers, and conversion rate across four alternatives
+  
 ![Strategy simulation showing call volume, subscribers, and conversion rate across four alternatives](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/726ac9b09d22b74ee4da659d63248293ae8f89a9/Visuals/08_Strategy_Comparison.png)
 
 ---
