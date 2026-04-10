@@ -12,7 +12,6 @@ Analyze 41,176 contact records to answer: **How can the bank improve conversion 
 
 The project deliberately excludes predictive modeling to focus on statistical rigor and business interpretability — the methodology a product or marketing analyst would use day-to-day.
 
-![The bank concentrated 33% of calls in May, the worst-converting month, while the best months received less than 5% of volume](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/8a70e48004021ad576e2ec160a8ebd1519f60c9a/Visuals/01_Volume%20vs%20Effectiveness.png)
 ---
 
 ## 🔑 Key Findings
