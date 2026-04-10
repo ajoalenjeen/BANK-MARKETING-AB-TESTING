@@ -13,6 +13,17 @@ Analyze 41,176 contact records to answer: **How can the bank improve conversion 
 The project deliberately excludes predictive modeling to focus on statistical rigor and business interpretability — the methodology a product or marketing analyst would use day-to-day.
 
 ---
+## 📓 Notebooks
+
+| # | Notebook | Description |
+|---|----------|-------------|
+| 01 | [EDA](notebooks/01_eda.ipynb) | Data inspection, distributions, missing values, correlation |
+| 02 | [Cleaning](notebooks/02_cleaning.ipynb) | Transformations, feature engineering, export cleaned data |
+| 03 | [Baseline & Segmentation](notebooks/03_baseline_and_segmentation.ipynb) | Campaign baseline, customer segments, ICP, Do-Not-Call profile |
+| 04 | [A/B Testing](notebooks/04_ab_testing.ipynb) | Five hypothesis tests with effect-size validation |
+| 05 | [Temporal & Macro Analysis](notebooks/05_temporal_macro_analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
+| 06 | [Strategy Simulation](notebooks/06_strategy_simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
+---
 
 ## 🔑 Key Findings
 
