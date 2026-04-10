@@ -20,12 +20,12 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 | # | Notebook | Description |
 |---|----------|-------------|
 | 01 | [EDA](Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
-| 02 | [Cleaning](notebooks/02_cleaning.ipynb) | Transformations, feature engineering, export cleaned data |
-| 03 | [Baseline Performance](notebooks/03_baseline_performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
-| 04 | [Customer Segmentation](notebooks/04_customer_segmentation.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
-| 05 | [A/B Testing](notebooks/05_ab_testing.ipynb) | Five hypothesis tests with effect-size validation |
-| 06 | [Temporal & Macro Analysis](notebooks/06_temporal_macro_analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
-| 07 | [Strategy Simulation](notebooks/07_strategy_simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
+| 02 | [Data Cleaning & Feature Engineering](Notebooks/02_Data_Cleaning_and_Feature_Engineering.ipynb) | Transformations, feature engineering, export cleaned data |
+| 03 | [Baseline Performance](Notebooks/03_Baseline_Performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
+| 04 | [Customer Segmentation Analysis](Notebooks/04_Customer_Segmentation_Analysis.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
+| 05 | [A/B Testing](Notebooks/05_AB_Testing.ipynb) | Five hypothesis tests with effect-size validation |
+| 06 | [Temporal & Macro Analysis](Notebooks/06_Temporal_Macro_Analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
+| 07 | [Strategy Simulation](Notebooks/07_Strategy_Simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
 ---
 
 ## 🔑 Key Findings
