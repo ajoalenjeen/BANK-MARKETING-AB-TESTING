@@ -88,14 +88,15 @@ bank-marketing-ab-testing/
 
 ```bash
 # Clone the repo
-git clone https://github.com/ajoalenjeen/bank-marketing-ab-testing.git
-cd bank-marketing-ab-testing
+git clone https://github.com/ajoalenjeen/BANK-MARKETING-CAMPAIGN-ANALYSIS.git
+cd BANK-MARKETING-CAMPAIGN-ANALYSIS
 
 # Install dependencies
 pip install -r requirements.txt
 
-# Open the notebook
-jupyter notebook notebooks/bank_marketing_analysis.ipynb
+# Start with EDA or jump straight to A/B Testing
+jupyter notebook notebooks/01_eda.ipynb
+jupyter notebook notebooks/04_ab_testing.ipynb
 ```
 
 ---
@@ -124,4 +125,4 @@ This is a **retrospective analysis**, not a forecast. Findings should be revalid
 
 **Ajo Alenjeen**
 MBA Candidate, Business Analytics — Pace University
-[LinkedIn](https://linkedin.com/in/your-profile) · [Portfolio](https://github.com/ajoalenjeen)
+[LinkedIn](https://www.linkedin.com/in/ajoalenjeen/) · [Portfolio](https://github.com/ajoalenjeen)
