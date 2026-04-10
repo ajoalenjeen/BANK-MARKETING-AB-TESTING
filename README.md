@@ -63,10 +63,10 @@ Based on the analysis, the bank should adopt a **layered targeting strategy**:
 
 ## 📊 Projected Impact
 
-| Strategy | Calls | Subscribers | Conv Rate | Calls Saved |
-|----------|------:|------------:|----------:|------------:|
-| Baseline (actual campaign) | 41,176 | 4,639 | 11.27% | — |
-| **Crisis-Aware** | **11,652** | **2,999** | **25.74%** | **-72%** |
+| Strategy | Calls | Subscribers | Conv Rate |
+|----------|------:|------------:|----------:|
+| Baseline (actual campaign) | 41,176 | 4,639 | 11.27% |
+| **Crisis-Aware** | **11,652** | **2,999** | **25.74%** |
 
 * The Crisis-Aware strategy would have captured **65% of subscribers using 28% of the call volume** — a **2.28x improvement in conversion efficiency**.
 
