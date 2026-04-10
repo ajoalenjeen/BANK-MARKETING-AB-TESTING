@@ -74,12 +74,21 @@ The Crisis-Aware strategy would have captured **65% of subscribers using 28% of 
 
 ```
 bank-marketing-ab-testing/
-├── data/                       # Raw dataset
-├── notebooks/                  # Main analysis notebook
+├── data/
+│   ├── raw/
+│   └── processed/
+├── notebooks/
+│   ├── 01_eda.ipynb
+│   ├── 02_cleaning.ipynb
+│   ├── 03_baseline_and_segmentation.ipynb
+│   ├── 04_ab_testing.ipynb
+│   ├── 05_temporal_macro_analysis.ipynb
+│   └── 06_strategy_simulation.ipynb
 ├── reports/
-│   ├── executive_summary.md
-│   └── figures/                # Exported charts
-└── docs/                       # Methodology notes
+│   └── figures/
+├── requirements.txt
+├── README.md
+└── LICENSE
 ```
 
 ---
