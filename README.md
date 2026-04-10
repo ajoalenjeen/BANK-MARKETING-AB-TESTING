@@ -92,7 +92,6 @@ Based on the analysis, the bank should adopt a **layered targeting strategy**:
 bank-marketing-ab-testing/
 ├── data/
 │   ├── raw/
-│   └── processed/
 ├── notebooks/
 │   ├── 01_eda.ipynb
 │   ├── 02_cleaning.ipynb
@@ -102,7 +101,8 @@ bank-marketing-ab-testing/
 │   ├── 06_temporal_macro_analysis.ipynb
 │   └── 07_strategy_simulation.ipynb
 ├── reports/
-│   └── figures/
+│   └── PPT/
+│   └── Visuals/
 ├── requirements.txt
 ├── README.md
 └── LICENSE
