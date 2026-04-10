@@ -10,8 +10,6 @@ A statistical analysis of a Portuguese bank's direct telemarketing campaign (200
 
 Analyze 41,176 contact records to answer: **How can the bank improve conversion rates and optimize contact strategies for term deposit subscriptions?**
 
-The project deliberately excludes predictive modeling to focus on statistical rigor and business interpretability — the methodology a product or marketing analyst would use day-to-day.
-
 ---
 ## 📓 Notebooks
 
