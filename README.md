@@ -21,7 +21,7 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 |---|----------|-------------|
 | 01 | [EDA](Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
 | 02 | [Data Cleaning & Feature Engineering](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/d452df797f75479806f10856a291b06237bed855/Notebooks/02_Data%20Cleaning%20%26%20Feature%20Engineering.ipynb) | Transformations, feature engineering, export cleaned data |
-| 03 | [Baseline Performance](Notebooks/03_Baseline_Performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
+| 03 | [Baseline Performance](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/60ac3dea57fec68549f272c0dc3ee417a7fa633d/Notebooks/03_Baseline%20%26%20Campaign%20Performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
 | 04 | [Customer Segmentation Analysis](Notebooks/04_Customer_Segmentation_Analysis.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
 | 05 | [A/B Testing](Notebooks/05_AB_Testing.ipynb) | Five hypothesis tests with effect-size validation |
 | 06 | [Temporal & Macro Analysis](Notebooks/06_Temporal_Macro_Analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
