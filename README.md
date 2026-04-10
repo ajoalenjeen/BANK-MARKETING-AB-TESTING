@@ -17,7 +17,7 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 
 | # | Notebook | Description |
 |---|----------|-------------|
-| 01 | [EDA](notebooks/01_eda.ipynb) | Data inspection, distributions, missing values, correlation |
+| 01 | [EDA](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/89cede0e31023db6e56c41f50f4cf61dc93c03db/Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
 | 02 | [Cleaning](notebooks/02_cleaning.ipynb) | Transformations, feature engineering, export cleaned data |
 | 03 | [Baseline & Segmentation](notebooks/03_baseline_and_segmentation.ipynb) | Campaign baseline, customer segments, ICP, Do-Not-Call profile |
 | 04 | [A/B Testing](notebooks/04_ab_testing.ipynb) | Five hypothesis tests with effect-size validation |
