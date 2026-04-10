@@ -140,12 +140,6 @@ Python · pandas · NumPy · SciPy · statsmodels · matplotlib · seaborn · Ju
 
 ---
 
-## 📝 Caveats
-
-This is a **retrospective analysis**, not a forecast. Findings should be revalidated in a different economic environment, as the dataset captures the unique 2008–2010 financial crisis period. The Crisis-Aware strategy trades acquisition volume for efficiency — a 35% subscriber loss is the cost of the 72% call reduction.
-
----
-
 ## 👤 Author
 
 **Ajo Alenjeen**
