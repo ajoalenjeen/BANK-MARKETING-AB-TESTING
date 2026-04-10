@@ -25,7 +25,7 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 | 04 | [Customer Segmentation Analysis](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/b4b77b7cd21a1f473e950f48e81ecd8736838a3c/Notebooks/04_Customer%20Segmentation%20Analysis.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
 | 05 | [A/B Testing](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/88f7105abe5209bc5ecd7a91c00e01cc495449db/Notebooks/05_AB%20Testing.ipynb) | Five hypothesis tests with effect-size validation |
 | 06 | [Temporal & Macro Analysis](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/ae1711c50af824fd4eee2f7c576957c1c68bf715/Notebooks/06_Temporal%20%26%20Macroeconomic%20Analysis.ipynb) | Year reconstruction, Euribor relationship, month-effect reframe |
-| 07 | [Strategy Simulation](Notebooks/07_Strategy_Simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
+| 07 | [Strategy Simulation](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/1af02d6245b6bebd0c73e1f8a462d65da5e1b0bf/Notebooks/07_Strategy%20Simulation.ipynb) | Four targeting strategies, projected impact, recommendations |
 ---
 
 ## 🔑 Key Findings
