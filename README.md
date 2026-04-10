@@ -19,7 +19,7 @@ The project deliberately excludes predictive modeling to focus on statistical ri
 
 | # | Notebook | Description |
 |---|----------|-------------|
-| 01 | [EDA](notebooks/01_eda.ipynb) | Data inspection, distributions, missing values, correlation |
+| 01 | [EDA](Notebooks/01_eda.ipynb) | Data inspection, distributions, missing values, correlation |
 | 02 | [Cleaning](notebooks/02_cleaning.ipynb) | Transformations, feature engineering, export cleaned data |
 | 03 | [Baseline Performance](notebooks/03_baseline_performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
 | 04 | [Customer Segmentation](notebooks/04_customer_segmentation.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
