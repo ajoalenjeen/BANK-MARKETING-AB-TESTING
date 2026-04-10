@@ -82,9 +82,10 @@ bank-marketing-ab-testing/
 │   ├── 01_eda.ipynb
 │   ├── 02_cleaning.ipynb
 │   ├── 03_baseline_and_segmentation.ipynb
-│   ├── 04_ab_testing.ipynb
-│   ├── 05_temporal_macro_analysis.ipynb
-│   └── 06_strategy_simulation.ipynb
+│   ├── 04_customer_segmentation_analysis.ipynb
+│   ├── 05_ab_testing.ipynb
+│   ├── 06_temporal_macro_analysis.ipynb
+│   └── 07_strategy_simulation.ipynb
 ├── reports/
 │   └── figures/
 ├── requirements.txt
