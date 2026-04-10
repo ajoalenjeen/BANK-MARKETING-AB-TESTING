@@ -16,7 +16,7 @@ Analyze 41,176 contact records to answer: **How can the bank improve conversion 
 
 | # | Notebook | Description |
 |---|----------|-------------|
-| 01 | [EDA](Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
+| 01 | [EDA](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/1460d6cea27a9aeb406afd1e689dd627fe5d8d16/Notebooks/01_EDA.ipynb) | Data inspection, distributions, missing values, correlation |
 | 02 | [Data Cleaning & Feature Engineering](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/d452df797f75479806f10856a291b06237bed855/Notebooks/02_Data%20Cleaning%20%26%20Feature%20Engineering.ipynb) | Transformations, feature engineering, export cleaned data |
 | 03 | [Baseline Performance](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/60ac3dea57fec68549f272c0dc3ee417a7fa633d/Notebooks/03_Baseline%20%26%20Campaign%20Performance.ipynb) | Campaign baseline metrics, volume vs effectiveness analysis |
 | 04 | [Customer Segmentation Analysis](https://github.com/ajoalenjeen/BANK-MARKETING-AB-TESTING/blob/b4b77b7cd21a1f473e950f48e81ecd8736838a3c/Notebooks/04_Customer%20Segmentation%20Analysis.ipynb) | Multi-variable segments, micro-segment analysis, ICP, Do-Not-Call profile |
