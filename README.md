@@ -56,7 +56,24 @@ Based on the analysis, the bank should adopt a **layered targeting strategy**:
 - **Channel:** Cellular only. Telephone underperforms by 2.8x in every job category.
 - **History:** Prioritize clients with prior contact history (any outcome). Previous campaign success is the strongest single predictor in the dataset.
 - **Frequency:** Cap at 3 contacts per client. Beyond 5 contacts, conversion drops below 6%.
+## ✅ Recommendations
 
+Based on the analysis, the bank should adopt a **layered targeting strategy**. Each tier produces a measurable conversion lift over the 11.27% baseline:
+
+### Tier 1 — Immediate, no-risk change
+**Stop calling the worst-performing segment** (telephone + May + blue-collar/services/entrepreneur).
+→ Conversion lifts from **11.27% → 12.04%** with zero operational disruption. Removes 9% of call volume while losing only 3% of subscribers (27:1 cost-benefit ratio).
+
+### Tier 2 — Primary strategy: Crisis-Aware targeting
+**Calibrate call volume to the interest rate environment** — scale up during low-Euribor periods, scale down during high-Euribor periods.
+→ Conversion lifts from **11.27% → ~25%** by concentrating effort during periods when term deposits are most attractive.
+
+### Tier 3 — Within Crisis-Aware, prioritize high-value clients
+- **Channel:** Cellular only — telephone underperforms by 2.8x in every job category
+- **History:** Prioritize clients with prior contact history — the strongest single predictor in the dataset
+- **Frequency:** Cap at 3 contacts per client — beyond 5 contacts, conversion drops below 6%
+
+→ Combined effect lifts conversion from **11.27% → ~55–65%** within the highest-value subset, capturing the best-performing clients with maximum efficiency.
 
 
 ## 📊 Projected Impact
