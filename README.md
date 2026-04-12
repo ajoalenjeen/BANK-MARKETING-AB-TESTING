@@ -112,23 +112,6 @@ bank-marketing-ab-testing/
 
 ---
 
-## 🚀 Quick Start
-
-```bash
-# Clone the repo
-git clone https://github.com/ajoalenjeen/BANK-MARKETING-CAMPAIGN-ANALYSIS.git
-cd BANK-MARKETING-CAMPAIGN-ANALYSIS
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Start with EDA or jump straight to A/B Testing
-jupyter notebook notebooks/01_eda.ipynb
-jupyter notebook notebooks/04_ab_testing.ipynb
-```
-
----
-
 ## 📊 Dataset
 
 UCI Bank Marketing Dataset (`bank-additional-full.csv`) — 41,188 records, 20 input features, binary subscription target. Source: [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Bank+Marketing).
