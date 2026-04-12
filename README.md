@@ -32,7 +32,7 @@ Analyze 41,176 contact records to answer: **How can the bank improve conversion 
 
 2. **Previous campaign success is the strongest predictor (validated by A/B test).** Prior subscribers converted at 65.1% vs 8.8% for fresh leads — a 56 percentage point gap (two-proportion z-test, p < 0.001, **Cohen's h = 1.27, very large effect**).
 
-3. **Cellular outperforms telephone by 2.8x — universally and significantly.** 14.7% vs 5.2% across all 41,176 contacts (z-test, p < 0.001, h = 0.33). The advantage holds within every job category and every month — no demographic segment performs better on telephone.
+3. **Cellular outperforms telephone by 2.8x — universally and significantly. (validated by A/B test)** 14.7% vs 5.2% across all 41,176 contacts (z-test, p < 0.001, h = 0.33). The advantage holds within every job category and every month — no demographic segment performs better on telephone.
 
 4. **Diminishing returns set in after 3 contacts (chi-square confirmed).** Conversion drops from 13.0% (1 contact) to 5.5% (6+ contacts). Pairwise z-tests show the effect becomes meaningful at the 4-5 contact threshold.
 
